@@ -1,0 +1,18 @@
+# Dependency folders
+node_modules/
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment secrets (CRITICAL)
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
